@@ -3,9 +3,13 @@
 #include <unistd.h>
 
 /**
- * main - Entry
- *Return: 1
- */
+ *
+ *  * main - Entry
+ *
+ *   * Return: 1
+ *
+ *    */
+
 int main(void)
 
 {
@@ -17,3 +21,5 @@ int main(void)
 		        return (1);
 
 }
+
+
